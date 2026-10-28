@@ -151,7 +151,7 @@ nav a:hover {
   margin-bottom: 18px;
 }
 
-/* --- ABOUT ME SECTION STYLES --- */
+/* --- ABOUT ME SECTION  --- */
 .about-container {
   display: flex;
   gap: 40px;
@@ -176,7 +176,7 @@ nav a:hover {
   line-height: 1.6;
 }
 
-/* Gallery Grid Layout */
+/* Gallery  Layout */
 .about-gallery {
   flex: 1;
   display: grid;
@@ -203,7 +203,7 @@ nav a:hover {
   transform: scale(1.04);
 }
 
-/* Make the individual suit photo span two columns for emphasis */
+
 .main-img {
   grid-column: span 2;
   height: 240px;
@@ -303,7 +303,7 @@ footer {
   font-size: 0.9rem;
 }
 
-/* Responsive design adjustments for mobile devices */
+
 @media (max-width: 860px) {
   .about-container {
     flex-direction: column;
@@ -360,7 +360,7 @@ footer {
   }
 }
 
-/* Responsive YouTube video section */
+
 .video-project {
   max-width: 1000px;
   margin: 32px auto 0;
